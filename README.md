@@ -26,16 +26,13 @@ A Python tool for downloading mod packs from RimWorldBase.com.
 1. Clone or download this repository
 2. Install required packages:
 
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
 Run the script:
 
 ```bash
-python rimworld_mod_downloader.py
+python R-W-M-D.py
 ```
 
 Follow the on-screen instructions to:
